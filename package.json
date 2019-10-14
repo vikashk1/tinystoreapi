@@ -1,0 +1,24 @@
+{
+  "name": "lucenemongo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --exit"
+  },
+  "keywords": [
+    "mocha",
+    "mongo",
+    "lucene",
+    "express",
+    "mongoose"
+  ],
+  "author": "Vikash Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "lucene": "2.1.0",
+    "mongoose": "5.7.4",
+    "request-promise": "4.2.4"
+  }
+}
