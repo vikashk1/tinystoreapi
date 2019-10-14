@@ -9,9 +9,10 @@
   "keywords": [
     "mocha",
     "mongo",
-    "lucene",
     "express",
-    "mongoose"
+    "mongoose",
+    "request",
+    "request-promise"
   ],
   "author": "Vikash Kushwaha",
   "license": "ISC",
