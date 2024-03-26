@@ -17,7 +17,7 @@
   "author": "Vikash Kushwaha",
   "license": "ISC",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.19.2",
     "lucene": "2.1.0",
     "mongoose": ">=5.7.5",
     "request": "2.88.0",
